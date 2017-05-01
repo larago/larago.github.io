@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "inziu";
+    src: url('./../fonts/inziu.ttf');
+}
+
+html, h1, h2, h3, h4, a, body {
+    font-family: "inziu";
+}
+
+body {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.col-lg-8 {
+    width: 100%;
+}
